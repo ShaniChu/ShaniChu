@@ -12,4 +12,10 @@ Let's keep in touch:
 * 🌍 [Based in Ontario, Canada]
 * 🔭 [I’m currently working on some new projects - stay tuned]
 
-#Technical Skills
+## Technical Skills
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/POWER%20BI-F2CC8F?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
