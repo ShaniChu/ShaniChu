@@ -1,4 +1,4 @@
-# Hey there, I'm [Shani/] 👋
+# Hey there, I'm [Shani\] 👋
 I'm a data analyst who loves to learn and develop data-related projects. 
 I use creativity and through investigation skills to get to the root cause and the heart of any problem.
 Let's keep in touch:
