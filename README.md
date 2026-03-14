@@ -6,11 +6,11 @@ Let's keep in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[shanichulin]-blue)](https://linkedin.com/in/[shanichulin])
 [![Email](https://img.shields.io/badge/Email-[shaninchulin@gmail.com]-red)](mailto:shaninchulin@gmail.com)
 
-* 🏆 [Honours Diploma in Business Analytics from SENECA College in Ontario, Canada]
-* 🎓 [BSc. in Materials Engineering]
-* 💻 [Loves Data and all in between] 
-* 🌍 [Based in Ontario, Canada]
-* 🔭 [I’m currently working on some new projects - stay tuned]
+* 🏆 Honours Diploma in Business Analytics from SENECA College in Ontario, Canada
+* 🎓 BSc. in Materials Engineering
+* 💻 Loves Data and all in between
+* 🌍 Based in Ontario, Canada
+* 🔭 I’m currently working on some new projects - stay tuned
 
 ## Technical Skills
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
